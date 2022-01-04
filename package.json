@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chai": "^4.3.4",
+    "ganache-time-traveler": "^1.0.16",
+    "truffle": "^5.4.14",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
